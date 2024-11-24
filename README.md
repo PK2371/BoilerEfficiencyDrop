@@ -36,13 +36,13 @@ This project leverages machine learning techniques to analyze and predict therma
 
 ## Usage
 
-# Predict Anomalies
+### Predict Anomalies
 
 - Modify the input dataset or preprocessing steps as needed.
 - Execute the notebook sequentially.
 - Inspect generated plots and prediction results.
 
-# Configurations
+### Configurations
 - Adjust prediction thresholds in the alert_trigger function.
 - Update fault_var and other variables to suit your specific use case.
 
@@ -55,7 +55,7 @@ This project leverages machine learning techniques to analyze and predict therma
 
 ---
 
-# Project Structure
+## Project Structure
 
 📁 BoilerEfficiencyDrop/
 ├── 📄 Priyanshu_210107066_FINAL.pdf                             # Project Report
