@@ -58,6 +58,9 @@ This project leverages machine learning techniques to analyze and predict therma
 ## Project Structure
 
 📁 BoilerEfficiencyDrop/
-├── 📄 Priyanshu_210107066_FINAL.pdf                             # Project Report
-├── 📄 Priyanshu_210107066_Project_FINAL (3).ipynb               # Jupyter Notebook file
-└── 📄 README.md                                                 # Project documentation
+
+├── 📄 Priyanshu_210107066_FINAL.pdf                       # Project Report
+
+├── 📄 Priyanshu_210107066_Project_FINAL (3).ipynb         # Jupyter Notebook file
+
+└── 📄 README.md                                           # Project documentation
